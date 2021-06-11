@@ -270,6 +270,8 @@ _不要使用远程桌面(mstsc)来连接云服务器，此工具在断开连接
 
 * [ths_trade同花顺自动化交易股票下单接口API,量化框架](https://github.com/mpquant/ths_trade)
 
+* [Ashare最简股票行情数据接口API,A股行情完全开源免费](https://github.com/mpquant/Ashare)
+
 # **巴特量化**
 
 - 数字货币 股市量化工具 行情系统软件开发
